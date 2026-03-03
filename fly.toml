@@ -1,0 +1,5 @@
+app = "podbot"
+primary_region = "ams"
+
+[processes]
+  app = "python bot.py"
